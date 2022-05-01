@@ -1,0 +1,3 @@
+# Island size finder
+
+With this script I was learning about DFS functions and trying to find island sizes in a matrix of 1s and 0s...
